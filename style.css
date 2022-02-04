@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+
+body{
+    font-family: "Rowdies" sans-serif;
+    max-width: 1080px;
+    margin:  0 auto;
+
+}
+
+h1{
+    color: #ec183f;
+    
+    
+}
+
+img#background{
+    width: 100%;
+    border: solid rgb(153, 23, 23);
+
+
+
+}
+
+header small{
+    font-weight: 700;
+}
+
+footer{
+    border-top: solid rgb(150, 146, 146) 2px;
+}
+
+
+footer .redes-sociais{
+    list-style: none;
+    text-align: center;
+}
+
+footer .redes-sociais li {
+    display: inline-block;
+    
+}
+
+footer .redes-sociais img {
+    width: 40px;
+    margin: 10px;
+
+}
